@@ -10,7 +10,7 @@
   <a href="mailto:avotrafitahianar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://mg.linkedin.com/in/avotra-fitahiana-rakotoarisoa-9b5b36323">
+  <a href="https://www.linkedin.com/in/avotra-fitahiana-rakotoarisoa-9b5b36323">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -62,12 +62,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AvotraFitahiana0710&theme=react&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
 <h2 align="center">📫 Me contacter</h2>
 
 <p align="center">
@@ -77,7 +71,7 @@
   <a href="mailto:avotrafitahianar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mg.linkedin.com/in/avotra-fitahiana-rakotoarisoa-9b5b36323">
+  <a href="https://www.linkedin.com/in/avotra-fitahiana-rakotoarisoa-9b5b36323">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/edou_uuu/">
@@ -90,5 +84,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/37927780890361c2048526466c44c7711b0e2c16/bottom_header.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer" />
 </p>
